@@ -6,6 +6,9 @@ public class DoubleCheck {
 		Singleton2 obj=Singleton2.getInstance();
 		System.out.println(Singleton2.getInstance());
 		System.out.println(Singleton2.getInstance());
+		
+		System.out.println("changes done");
+		System.out.println("change done");
 
 	}
 

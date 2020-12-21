@@ -8,7 +8,8 @@ public class EagerSingleton {
 		System.out.println(Singleton.getInstance());
 		
 		
-
+System.out.println("done");
+System.out.println("done");
 	}
 
 }
