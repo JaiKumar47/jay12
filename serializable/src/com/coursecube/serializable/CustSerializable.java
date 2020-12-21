@@ -22,6 +22,11 @@ public class CustSerializable {
         ObjectInputStream ois=new ObjectInputStream(fis);
         Account1 a2=(Account1)ois.readObject();
         System.out.println(a2.un+"\t"+a2.pwd);
+        
+        System.out.println("Every thing is fine");
+        System.out.println("hellooooooooooo");
+        System.out.println("hellooooooooooo");
+        System.out.println("hellooooooooooo");
 
 	}
 }
